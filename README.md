@@ -2,8 +2,6 @@
 - 👀 I’m interested in ...Big Data Handling And Cloud Computing
 - 🌱 I’m currently learning ...Cloud Computing And Deep Learing
 - 📫 How to reach me ...guntreddibharath@gmail.com
-- - .... . ....... .-- .- -.-- ....... - --- ....... --. . - ....... ... - .- .-. - . -.. ....... .. ... ....... - --- ....... --.- ..- .. - ....... - .- .-.. -.- .. -. --. ....... .- -. -.. ....... -... . --. .. -. ....... -.. --- .. -. --. .-.-.-
-- 
 
 <!---
 bharathguntreddi3/bharathguntreddi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
