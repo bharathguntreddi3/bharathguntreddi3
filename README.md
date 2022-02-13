@@ -1,5 +1,7 @@
-### Hey Everyone! I'm [Bharath Guntreddi GB!](https://github.com/bharathguntreddi3?tab=repositories)
+### Hey Everyone! ![gif2](https://user-images.githubusercontent.com/95229816/153762766-e6f43977-1f1b-4281-b2ac-c3d7f465f21d.gif)
 
+
+<!-- I'm [Bharath Guntreddi GB!](https://github.com/bharathguntreddi3?tab=repositories) -->
 
 <p align = "center"><img src = "https://user-images.githubusercontent.com/95229816/153761696-b2784cae-5a36-4215-be36-29632ccc9323.png"></p>
 
