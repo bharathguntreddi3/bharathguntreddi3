@@ -26,8 +26,11 @@ ________________________________________________________________________________
 - 📫 How to reach me ...guntreddibharath@gmail.com
 ```
 
-<a href = "https://github.com/bharathguntreddi3?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bharathguntreddi3&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathguntreddi3&langs_count=9&theme=highcontrast">
 
+<a href = "https://github.com/bharathguntreddi3?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bharathguntreddi3&show_icons=True&theme=highcontrast&border_color=blue&locale=en&border_radius=30&bd_color=blue,red&include_all_commits=True"></a>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bharathguntreddi3"> -->
 
 <!---
 bharathguntreddi3/bharathguntreddi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
