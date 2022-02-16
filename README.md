@@ -25,6 +25,8 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning ...Cloud Computing And Deep Learing
 - 📫 How to reach me ...guntreddibharath@gmail.com
 
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bharath-guntreddi/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guntreddibharath@gmail.com)](mailto:guntreddibharath@gmail.com) ![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=") [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bharath.guntreddi/)](https://instagram.com/bharath.guntreddi)
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathguntreddi3&langs_count=9&theme=highcontrast">
 
