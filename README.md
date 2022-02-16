@@ -1,4 +1,5 @@
-### Hey Everyone! ![gif2](https://user-images.githubusercontent.com/95229816/153762766-e6f43977-1f1b-4281-b2ac-c3d7f465f21d.gif)
+### Hey Everyone! 
+![gif2](https://user-images.githubusercontent.com/95229816/153762766-e6f43977-1f1b-4281-b2ac-c3d7f465f21d.gif)
 
 
 <!-- I'm [Bharath Guntreddi GB!](https://github.com/bharathguntreddi3?tab=repositories) -->
@@ -16,7 +17,7 @@ ________________________________________________________________________________
 <!-- <img align = "right" src="https://user-images.githubusercontent.com/95229816/154297903-943c9264-37a4-4793-b27a-1a4cc9066413.gif" width = "320"> -->
 
 ```
-bharathguntreddi3@github
+👀bharathguntreddi3@github
 ------------------------
 - 👋 Hi, I’m @bharathguntreddi3
 - 👀 I’m interested in ...Big Data Handling And Cloud Computing
@@ -25,10 +26,11 @@ bharathguntreddi3@github
 - 📫 How to reach me ...guntreddibharath@gmail.com
 ```
 
-
+<a href = "https://github.com/bharathguntreddi3?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bharathguntreddi3&show_icons=true">
 
 
 <!---
 bharathguntreddi3/bharathguntreddi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
