@@ -5,14 +5,21 @@
 
 <p align = "center"><img src = "https://user-images.githubusercontent.com/95229816/153761696-b2784cae-5a36-4215-be36-29632ccc9323.png"></p>
 
+<img align = "right" src="https://user-images.githubusercontent.com/95229816/154296693-bbb9b493-623a-4d2a-b88f-18a62cf3ef61.gif" width = "320">
 
-
-
+```
+bharathguntreddi3@github
+------------------------
 - 👋 Hi, I’m @bharathguntreddi3
 - 👀 I’m interested in ...Big Data Handling And Cloud Computing
 - 🐱‍💻 A Ready Packet Monkey Termux Hacker And Exploiter
 - 🌱 I’m currently learning ...Cloud Computing And Deep Learing
 - 📫 How to reach me ...guntreddibharath@gmail.com
+```
+
+
+
+
 
 <!---
 bharathguntreddi3/bharathguntreddi3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
