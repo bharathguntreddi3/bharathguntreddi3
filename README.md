@@ -5,7 +5,9 @@
 
 <p align = "center"><img src = "https://user-images.githubusercontent.com/95229816/153761696-b2784cae-5a36-4215-be36-29632ccc9323.png"></p>
 
-<img align = "right" src="https://user-images.githubusercontent.com/95229816/154296693-bbb9b493-623a-4d2a-b88f-18a62cf3ef61.gif" width = "320">
+<!-- <img align = "right" src="https://user-images.githubusercontent.com/95229816/154296693-bbb9b493-623a-4d2a-b88f-18a62cf3ef61.gif" width = "320"> -->
+
+<img align = "right" src="https://user-images.githubusercontent.com/95229816/154297903-943c9264-37a4-4793-b27a-1a4cc9066413.gif" width = "320">
 
 ```
 bharathguntreddi3@github
@@ -16,7 +18,6 @@ bharathguntreddi3@github
 - 🌱 I’m currently learning ...Cloud Computing And Deep Learing
 - 📫 How to reach me ...guntreddibharath@gmail.com
 ```
-
 
 
 
