@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 <!-- <img align = "right" src="https://user-images.githubusercontent.com/95229816/154297903-943c9264-37a4-4793-b27a-1a4cc9066413.gif" width = "320"> -->
 
-```
+
 👀bharathguntreddi3@github
 ------------------------
 - 👋 Hi, I’m @bharathguntreddi3
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 - 🐱‍💻 A Ready Packet Monkey Termux Hacker And Exploiter
 - 🌱 I’m currently learning ...Cloud Computing And Deep Learing
 - 📫 How to reach me ...guntreddibharath@gmail.com
-```
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathguntreddi3&langs_count=9&theme=highcontrast">
 
