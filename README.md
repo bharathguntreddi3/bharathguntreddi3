@@ -28,11 +28,11 @@ ________________________________________________________________________________
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/Bharath-Guntreddi/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guntreddibharath@gmail.com)](mailto:guntreddibharath@gmail.com) ![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=") [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bharath.guntreddi/)](https://instagram.com/bharath.guntreddi) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://https://www.facebook.com/bharath.guntreddi/)](https://https://www.facebook.com/bharath.guntreddi/)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathguntreddi3&langs_count=9&theme=highcontrast">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathguntreddi3&langs_count=9&theme=highcontrast&border_radius=30">
 
 <a href = "https://github.com/bharathguntreddi3?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bharathguntreddi3&show_icons=True&theme=highcontrast&border_color=blue&locale=en&border_radius=30&bd_color=blue,red&include_all_commits=True"></a>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=bharathguntreddi3&theme=highcontrastborder_radius=30">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bharathguntreddi3"> -->
 
