@@ -20,9 +20,8 @@ ________________________________________________________________________________
 👀bharathguntreddi3@github
 ------------------------
 - 👋 Hi, I’m @bharathguntreddi3
-- 👀 I’m interested in ...Big Data Handling And Cloud Computing
+- 👀 I’m interested in ...Big Data Handling, Cloud Computing and DBMS
 - 🐱‍💻 A Ready Packet Monkey Termux Hacker And Exploiter
-- 🌱 I’m currently learning ...Cloud Computing And Deep Learing
 - 📫 How to reach me ...guntreddibharath@gmail.com
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/Bharath-Guntreddi/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guntreddibharath@gmail.com)](mailto:guntreddibharath@gmail.com) ![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=") [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bharath.guntreddi/)](https://instagram.com/bharath.guntreddi) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://https://www.facebook.com/bharath.guntreddi/)](https://https://www.facebook.com/bharath.guntreddi/)
