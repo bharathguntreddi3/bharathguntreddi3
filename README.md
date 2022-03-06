@@ -20,7 +20,7 @@ ________________________________________________________________________________
 👀bharathguntreddi3@github
 ------------------------
 - 👋 Hi, I’m @bharathguntreddi3
-- 👀 I’m interested in ...Big Data Handling, Cloud Computing and DBMS
+- 👀 I’m interested in ...Big Data Handling, Cloud Computing and DBA
 - 🐱‍💻 A Ready Packet Monkey Termux Hacker And Exploiter
 - 📫 How to reach me ...guntreddibharath@gmail.com
 
