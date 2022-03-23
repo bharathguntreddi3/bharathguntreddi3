@@ -30,6 +30,7 @@ ________________________________________________________________________________
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathguntreddi3&langs_count=9&theme=highcontrast&border_radius=30">
 
+<h4>Note: Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
 
 <a href = "https://github.com/bharathguntreddi3?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bharathguntreddi3&show_icons=True&theme=highcontrast&border_color=blue&locale=en&border_radius=30&bd_color=blue,red&include_all_commits=True"></a>
 
