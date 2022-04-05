@@ -4,7 +4,7 @@
 
 <!-- I'm [Bharath Guntreddi GB!](https://github.com/bharathguntreddi3?tab=repositories) -->
 
-<p align = "center"><img src = "https://user-images.githubusercontent.com/95229816/153761696-b2784cae-5a36-4215-be36-29632ccc9323.png"></p>
+<p align = "center"><img src = "https://user-images.githubusercontent.com/95229816/153761696-b2784cae-5a36-4215-be36-29632ccc9323.png"></a>
 
 
 
