@@ -47,11 +47,11 @@ You can click the Preview link to take a look at your changes.
 ### BY - 
    <img src="https://user-images.githubusercontent.com/95229816/155070269-f24efd04-011d-40e6-bce5-43e189374b61.png">
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Bharath Guntreddi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bharathguntreddi3&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
+<b>📊 Github Contribution Graph</b>
+<p align="center"<a href="#"><img alt="Bharath Guntreddi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bharathguntreddi3&theme=dracula /></a></p>
+
    
-   
-   
-<!-- <p> <img src="https://komarev.com/ghpvc/?username=bharathguntreddi3&label=Profile%20views&color=e89b17&style=flat" alt="Bharath" /> </p>     <!--profile Views-->
- 
+<!--    
+bg_color=0D1117&color=e05397&line=blue&point=FFFFFF&hide_border=true& -->
+
+
