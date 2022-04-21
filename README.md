@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
    <img src="https://user-images.githubusercontent.com/95229816/155070269-f24efd04-011d-40e6-bce5-43e189374b61.png">
 
 <b>📊 Github Contribution Graph</b>
-<p align="center"<a href="#"><img alt="Bharath Guntreddi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bharathguntreddi3&theme=dracula /></a></p>
+<p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=bharathguntreddi3&theme=react-dark&hide_border=True"></p>
 
    
 <!--    
