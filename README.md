@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Copperplate+Gothic+Bold&size=35&color=FFF639FF&background=8AFFBB00&lines=Hello+everyone!...🤞)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Copperplate+Gothic+Bold&size=35&color=FFF639FF&background=8AFFBB00&lines=Hello+everyone!...🤞)
 ![gif2](https://user-images.githubusercontent.com/95229816/153762766-e6f43977-1f1b-4281-b2ac-c3d7f465f21d.gif)
 
 
@@ -44,18 +44,15 @@ bharathguntreddi3/bharathguntreddi3 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
+<p><img src="https://github-profile-trophy.vercel.app/?username=bharathguntreddi3&theme=darkhub&title=Repositories,Stars,Commits,Followers"></p>
+
 ### BY - 
    <img src="https://user-images.githubusercontent.com/95229816/155070269-f24efd04-011d-40e6-bce5-43e189374b61.png">
 
 <b>📊 Github Contribution Graph</b>
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=bharathguntreddi3&theme=react-dark&hide_border=True"></p>
 
-   
-<!--    
-bg_color=0D1117&color=e05397&line=blue&point=FFFFFF&hide_border=true& -->
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-
+<!-- <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="200"  width="200"> -->
+<!-- 👆The Above line is for a random meme generator -->
 
 
