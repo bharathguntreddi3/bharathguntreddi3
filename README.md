@@ -28,7 +28,6 @@ ________________________________________________________________________________
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bharath-guntreddi-a2215a227/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guntreddibharath@gmail.com)](mailto:guntreddibharath@gmail.com) ![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=") [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bharath.guntreddi/)](https://instagram.com/bharath.guntreddi) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://https://www.facebook.com/bharath.guntreddi/)](https://https://www.facebook.com/bharath.guntreddi/)
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathguntreddi3&langs_count=9&theme=highcontrast&border_radius=30">
 
 <h4><u>Note :</u> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
