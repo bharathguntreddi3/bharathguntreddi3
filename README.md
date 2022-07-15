@@ -24,6 +24,7 @@ ________________________________________________________________________________
 - 🐱‍💻 A Ready Packet Monkey Termux Hacker And Exploiter
 - 📫 How to reach me ...guntreddibharath@gmail.com
 - 🐘Ruby is rubbish! PHP is phpantastic!
+- 🤞 Currently into GCP...
 - Checkout my <a href="https://bitbucket.org/bharathguntreddi/" target="_blank">Bitbucket</a>
 
 ### <u>Connect with me</u> 🤝...
