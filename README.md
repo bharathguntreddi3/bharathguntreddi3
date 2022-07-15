@@ -23,6 +23,7 @@ ________________________________________________________________________________
 - 👀 I’m interested in ...Big Data Handling, Cloud Computing and DBA
 - 🐱‍💻 A Ready Packet Monkey Termux Hacker And Exploiter
 - 📫 How to reach me ...guntreddibharath@gmail.com
+- 📸 Don’t shoot what it looks like. Shoot what it feels like.I'm a Photographer.
 - 🐘Ruby is rubbish! PHP is phpantastic!
 - 🤞 Currently into GCP...
 - Checkout my <a href="https://bitbucket.org/bharathguntreddi/" target="_blank">Bitbucket</a>
