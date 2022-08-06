@@ -25,7 +25,7 @@ ________________________________________________________________________________
 - 📫 How to reach me ...guntreddibharath@gmail.com
 - 📸 Don’t shoot what it looks like. Shoot what it feels like.I'm a Photographer.
 - 🐘Ruby is rubbish! PHP is phpantastic!
-- 🤞 Currently into GCP...
+- 🤞 Currently into GCP&K8's
 - Checkout my <a href="https://bitbucket.org/bharathguntreddi/" target="_blank">Bitbucket</a>
 
 <h3 align="left">Languages and Tools:</h3>
