@@ -20,8 +20,8 @@ with open("README.md", mode="r", encoding="utf8") as f:
 	readmeText = f.read()
 
 # place to insert the fact
-openingTag = "<h3 quote"
-closingTag = "</h3 quote"
+openingTag = "<h3 fact"
+closingTag = "</h3 fact"
 
 startIndex = readmeText.index(openingTag)
 endIndex = readmeText.index(closingTag)
