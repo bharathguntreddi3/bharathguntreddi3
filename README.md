@@ -75,7 +75,7 @@
 
 <!-- Random quotes quotes/3 hr -->
 <h2 align='left'>Quote/fact :</h2>
-<h3 fact align='center'>Some Random fact!</h3 fact>
+<h3 quote align='center'>Some Random fact!</h3 quote>
 
 <!-- Skill set -->
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>

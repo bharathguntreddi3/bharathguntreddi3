@@ -20,20 +20,17 @@ with open("README.md", mode="r", encoding="utf8") as f:
 	readmeText = f.read()
 
 # place to insert the fact
-openingTag = "<h3 fact"
-closingTag = "</h3 fact"
+openingTag = "<h3 quote"
+closingTag = "</h3 quote"
 
 startIndex = readmeText.index(openingTag)
 endIndex = readmeText.index(closingTag)
 
-factMarkdown = "<h3 quote align='center'>" + fact + "." + "</h3 quote>"
+factMarkdown = "<h3 quote align='center'>" + fact + "</h3 quote>"
 
-content = readmeText[startIndex +
-					len(openingTag): endIndex]
+content = readmeText[startIndex + len(openingTag): endIndex]
 newContent = (
-	readmeText[:startIndex]
-	+ factMarkdown
-	+ readmeText[endIndex + len(closingTag) + 1:]
+	readmeText[:startIndex] + factMarkdown + readmeText[endIndex + len(closingTag) + 1:]
 )
 
 # write again the new fact to the readme file
