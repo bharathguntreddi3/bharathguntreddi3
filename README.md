@@ -1,10 +1,3 @@
-<!-- styling -->
-<style>
-   h1{
-      text-align: center;
-   }
-</style>
-
 <!-- Home Banner -->
 <img src="assets/banner.png"> <br>
 
@@ -18,7 +11,7 @@
 <b>Cheers ! 🌟 </b><br>
 
 <!-- social Network -->
-<h1>📱 Connect with me - </h1>
+<h1 align="center">📱 Connect with me - </h1>
 <p align="center">
    <a href="mailto:guntreddibharath@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -75,7 +68,7 @@
 
 <!-- Random quotes quotes/3 hr -->
 <h2 align='left'>Quote/fact :</h2>
-<h3 quote align='center'>Some Random fact!</h3 quote>
+<h3 fact align='center'>Some Random fact!</h3 fact>
 
 <!-- Skill set -->
 <h1 align="center"> Languages/Frameworks I'm good at: </h1>

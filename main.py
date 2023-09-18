@@ -11,22 +11,25 @@ response = requests.get(api_url, headers={'X-Api-Key': 'P9nis6bPQQRNLyrFK/yPaw==
 
 if response.status_code == requests.codes.ok:
 	fact = response.text
+ 	facts = json.loads(fact)
+    f = facts[0]['fact']
+    mainfact = f.split('.')[0]
 else:
 	print("Error:", response.status_code, response.text)
 
 
-# Reading the readme file
+# Reading the readme file 
 with open("README.md", mode="r", encoding="utf8") as f:
 	readmeText = f.read()
 
 # place to insert the fact
-openingTag = "<h3 quote"
-closingTag = "</h3 quote"
+openingTag = "<h3 fact"
+closingTag = "</h3 fact"
 
 startIndex = readmeText.index(openingTag)
 endIndex = readmeText.index(closingTag)
 
-factMarkdown = "<h3 quote align='center'>" + fact + "</h3 quote>"
+factMarkdown = "<h3 fact align='center'>" + mainfact + "</h3 fact>"
 
 content = readmeText[startIndex + len(openingTag): endIndex]
 newContent = (
