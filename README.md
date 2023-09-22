@@ -131,6 +131,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathguntreddi3&label=Profile%20views&color=0e75b6&style=flat" alt="bharathguntreddi3" /> </p>
 
 ### Author:
-   <img src="https://user-images.githubusercontent.com/95229816/155070269-f24efd04-011d-40e6-bce5-43e189374b61.png">
+   <img src="assets/bharath_guntreddi.png">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
