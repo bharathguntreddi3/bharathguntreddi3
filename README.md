@@ -35,7 +35,7 @@
 </p>
 
 <!-- More About me -->
-<table style="border: none">
+<table style="border: none" align="center">
   <tr style="border: none">
     <td style="border: none">
       <ul>
@@ -62,7 +62,7 @@
         </li>
     </td>
     <td style="border: none;">
-      <img align="right" alt="gif" src="assets/skull.png"/>
+      <img width=400px height=400px align="right" alt="gif" src="assets/skull.png"/>
     </td>
   </tr>
 </table>
