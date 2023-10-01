@@ -62,7 +62,7 @@
         </li>
     </td>
     <td style="border: none;">
-      <img align="right" alt="gif" src="assets/gifs/6M8G.gif"/>
+      <img align="right" alt="gif" src="assets/skull.png"/>
     </td>
   </tr>
 </table>
