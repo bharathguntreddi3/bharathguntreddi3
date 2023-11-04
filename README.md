@@ -52,7 +52,7 @@
           📫 Feel free to contact me on <a style='color:blue' href="https://www.linkedin.com/in/bharath-guntreddi/">LinkedIn</a>
         </li>
         <li>
-          📝 Checkout my <a style='color:red' href="https://bharathguntreddi3.github.io/bharathguntreddi.github.io/">portfolio</a>
+          📝 Checkout my <a style='color:red' href="https://bharathguntreddi.onrender.com/">portfolio</a>
         </li>
         <li>
           🧠 I'm learning Data Analytics and Data Science
@@ -79,6 +79,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+      <img src="https://img.shields.io/badge/powerbi-276DC3?style=for-the-badge&logo=powerbi">
       <!-- <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"> -->
       <!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> -->
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
