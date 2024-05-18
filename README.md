@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+   <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <!-- Home Banner -->
 <img src="assets/banner2.png"> <br>
 
@@ -120,7 +120,7 @@
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/bharathguntreddi3">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharathguntreddi3&theme=transparent" height="180em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathguntreddi3&show_icons=true&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharathguntreddi3&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharathguntreddi3&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharathguntreddi3&theme=2077" height="180em" />
