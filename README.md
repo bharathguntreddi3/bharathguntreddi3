@@ -121,6 +121,7 @@
 <div align="center">
 <a href="https://github.com/bharathguntreddi3">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharathguntreddi3&theme=transparent" height="180em" />
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bharath's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bharathguntreddi3&show_icons=true&count_private=true&theme=transparent&bg_color=&title_color=blue&icon_color=2d7de4&show_icons=true&border_color=&border_radius=10" height="192px"/></a> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharathguntreddi3&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharathguntreddi3&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharathguntreddi3&theme=2077" height="180em" />
