@@ -125,7 +125,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathguntreddi3&show_icons=true&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharathguntreddi3&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharathguntreddi3&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharathguntreddi3&theme=2077" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharathguntreddi3&theme=2077" height="180em" /> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathguntreddi3&theme=transparent" alt="bharathguntreddi3" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathguntreddi3&theme=transparent" height="180em" />
 </div>
