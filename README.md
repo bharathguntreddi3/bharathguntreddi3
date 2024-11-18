@@ -126,9 +126,10 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharathguntreddi3&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharathguntreddi3&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharathguntreddi3&theme=2077" height="180em" />
-<img align="center" src="https://streak-stats.demolab.com?user=bharathguntreddi3&theme=transparent&border_radius=0">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathguntreddi3&theme=transparent" alt="bharathguntreddi3" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathguntreddi3&theme=transparent" height="180em" />
 </div>
+
 
 <h4><u>Note :</u> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h4>
 
