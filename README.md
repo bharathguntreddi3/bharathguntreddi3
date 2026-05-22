@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C4CC,100:0077B5&height=200&section=header&text=Bharath%20Guntreddi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GenAI%20Systems%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C4CC,100:0077B5&height=200&section=header&text=Bharath%20Guntreddi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20%7C%20Full-Stack%20Developer%20%7C%20GenAI%20%7C%20Data%20Analyst&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00C4CC&center=true&vCenter=true&width=960&lines=🤖+AI+Automation+Engineer;🌐+Full-Stack+Developer;🎭+Playwright+MCP+%26+Selenium+Specialist;📊+Power+BI+%26+Data+Analytics+Engineer;🧠+GenAI+Systems+%26+Prompt+Engineer;⚙️+AI+Workflow+Builder+%7C+50%2B+AI+Tools;🚀+Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00C4CC&center=true&vCenter=true&width=960&lines=AI+Automation+Engineer;Full-Stack+Developer;Playwright+MCP+%26+Selenium+Specialist;Power+BI+%26+Data+Analytics+Engineer;GenAI+Systems+%26+Prompt+Engineer;AI+Workflow+Builder+%7C+50%2B+AI+Tools;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,14 +10,13 @@
   <a href="mailto:guntreddibharath@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://www.linkedin.com/in/bharath-guntreddi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/bharathguntreddi3"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-  <a href="https://bharathguntreddi.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
-  <a href="https://www.instagram.com/bharath.guntreddi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-  <a href="https://join.skype.com/invite/uMViQwv9m8yk"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
+  <a href="https://guntreddi-bharath-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bharathguntreddi3&label=Profile+Views&color=00C4CC&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/bharathguntreddi3?label=Followers&style=flat-square&color=0077B5"/>
+  <img src="https://img.shields.io/github/followers/bharathguntreddi3?label=Followers&style=flat-square&color=0077B5&logo=github&logoColor=white&cacheBust=1"/>
+  <img src="https://img.shields.io/badge/AI%20Tools-50%2B%20Mastered-00C4CC?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
 ---
@@ -50,7 +49,7 @@ Status      : 🟢 Open to Opportunities
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="45%" valign="top" align="left">
 
 **🏆 Professional Highlights**
 
@@ -60,7 +59,7 @@ Status      : 🟢 Open to Opportunities
 ✅ &nbsp;AI Workflow Engineering  
 ✅ &nbsp;Power BI Dashboards Delivered  
 ✅ &nbsp;Full-Stack App Deployments  
-✅ &nbsp;Playwright MCP Specialist  
+✅ &nbsp;Playwright MCP & Selenium Java Maven  
 ✅ &nbsp;GenAI Systems Architecture  
 
 </td>
@@ -120,7 +119,8 @@ Status      : 🟢 Open to Opportunities
 ## 🗄️ &nbsp;Database Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,oracle&perline=5" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&perline=4" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
@@ -128,13 +128,13 @@ Status      : 🟢 Open to Opportunities
 ## ⚙️ &nbsp;Development Environment & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,canva&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github&perline=4" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
 </p>
 
 ---
@@ -226,7 +226,7 @@ Status      : 🟢 Open to Opportunities
 <p align="center">
   <strong>📫 Reach Me Directly</strong><br/><br/>
   📧 <a href="mailto:guntreddibharath@gmail.com">guntreddibharath@gmail.com</a> &nbsp;|&nbsp;
-  🌐 <a href="https://bharathguntreddi.onrender.com/">Portfolio</a> &nbsp;|&nbsp;
+  🌐 <a href="https://guntreddi-bharath-portfolio.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/bharath-guntreddi/">LinkedIn</a> &nbsp;|&nbsp;
   💻 <a href="https://github.com/bharathguntreddi3">GitHub</a>
 </p>
